@@ -35,3 +35,5 @@ In order to test open the console and run the following:
 
 ### Questions:
 If you have any questions contact me on [GitHub](https://github.com/rroman6292)!!!
+
+For a video walkthrough please click [here.](https://youtu.be/BpH4Qc2uqT4)
